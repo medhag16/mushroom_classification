@@ -1,2 +1,2 @@
-# mushroom_classififcation
+# mushroom_classification
 streamlit |pandas| numpy | scikit-learn
