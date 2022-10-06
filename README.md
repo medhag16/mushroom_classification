@@ -1,4 +1,4 @@
-# mushroom_classification
+# mushroom_classification - ML Project
 streamlit |pandas| numpy | scikit-learn
 
 Streamlit is an open-source app framework for Machine Learning and Data Science projects, Which helps you to view your projects in the Web Application.
